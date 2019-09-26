@@ -1,0 +1,97 @@
+body {
+  background: rgba(0,0,0,0.8);
+  opacity: 40%;
+}
+
+#container {
+  background: rgba(250,250,250,0.9);
+  margin : 10px auto;
+  width: 1080px;
+  border : 4px solid black;
+  padding : 20px;
+}
+
+
+#header {
+  border-radius: 15px;
+  padding: 10px;
+  height: 160px;
+  width: 1040px;
+  text-align: left;
+  background: rgba(0,0,0,0.9);
+}
+
+#pic {
+  float: right;
+}
+
+#educational_profile {
+ width: 1060px;
+ height: 150px;
+}
+
+img{
+ height: 150px;
+ width: 150px;
+ border: 2px solid black;
+ border-radius: 13px;
+}
+
+h4{
+  color: white;
+}
+
+h1 {
+ font-size: 45px; 
+ border-radius: 7px;
+ width: 525px;
+ padding:8px;
+ background: rgba(250,250,250,0.9);  
+ color: black;
+}
+
+h2 {
+ background: rgba(10,10,10,0.9);
+ color: white;
+ height:28px;
+ padding:10px; 
+}
+
+table {
+ margin: 0 155px;
+}
+ 
+th {
+ border: 2px solid black;
+ background-color:rgba(33,33,33,0.8);
+ color:white;
+ padding:7px;
+}
+
+td{
+ border:1px solid black;
+ background-color:rgba(80,80,80,0.4);
+ padding:5px;
+}
+
+#github_icon {
+ font-size: 60px;
+ margin: 0 30px;
+ text-decoration: none;
+ color: black;
+} 
+
+#instagram_icon {
+ font-size: 60px;
+ margin: 0 380px;
+ text-decoration: none;
+ color: #ff4040;
+}
+
+#facebook_icon {
+ float: right;
+ margin: 0 30px;
+ font-size: 60px;
+ text-decoration: none;
+ color: navyblue;
+}
